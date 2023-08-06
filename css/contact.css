@@ -1,0 +1,208 @@
+
+
+.contents1{
+    background-color: white;
+    box-shadow: var(--shadow);
+   width: 95%;
+   margin-bottom: 50px;
+   margin-top: 70px;
+
+  }
+
+  .contact-img{
+    background-image: url("../image/home-5.jpg");
+    background-size: cover;
+    margin-left: -12px;
+    
+    }
+
+  
+    .free-tag1{
+        padding: 10px 20px;
+        background-color: rgba(19, 61, 115, 0.1);
+        border-radius: 20px;
+        color: #4606ac;
+        font-weight: 600;
+        letter-spacing: 1px;
+        font-size: 18px;
+        line-height: 30px;
+        
+        }
+
+        .contact-form-content1{
+            padding: 80px;
+            }
+            .contact-form-content1 h1{
+                font-weight: 500;
+                margin-top: 30px;
+                font-size:3.5em;
+                letter-spacing: 2px;
+                }
+
+                .contact-btn1{
+                    margin-top: 50px;
+                    }
+                    
+                .contact-btn1 a{
+                  
+                   
+                  text-decoration: none;
+                  color: black;
+                  letter-spacing: 1px;
+                  font-weight: 700;
+                  text-transform: capitalize;
+                  font-size: 15px;
+                  font-family: 'Poppins', 
+                  sans-serif;
+                margin-left: 10px;
+                  }
+                         
+                  .contact-btn1 img{
+                      width: 50px;
+                      height: 50px;
+                      border: 1px solid #e7e7e7;
+                      padding:7px;
+            
+                  }
+/* support call, address, location, */
+
+
+.support-box1{
+    border: 1.5px solid #e7e7e7;
+    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 10px;
+  }
+
+  .support-box h4{
+    font-size:17px ;
+      font-weight: 800;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+      text-transform: uppercase;
+    }
+
+    .support-box p{
+        font-size: 18px;
+        color: #000;
+        letter-spacing: 0.5px;
+        font-weight: 600;
+        line-height:30px;
+      
+      }
+
+      .imgs1{
+    
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        }
+        
+        .imgs1 img{
+            width: 50px;
+            height: 50px;
+        }
+      .hero-supports1{
+        padding: 50px;
+        }
+
+        .support-box1 p{
+            font-size: 18px;
+            color: #000;
+            letter-spacing: 0.5px;
+            font-weight: 600;
+            line-height:30px;
+          
+          }
+
+
+
+
+
+
+.contact-us-form{
+padding: 50px;
+background-color: #f8f8f8;
+ }
+
+ .contact-img41{
+    background-image: url("../image/contacts-1.jpg");
+    background-size: cover;
+    margin-left: -12px;
+    
+ }
+
+
+ .sub-contact-from{
+padding: 80px;
+ }
+
+ .sub-contact-from span{
+
+    padding: 10px 20px;
+    background-color: rgba(19, 61, 115, 0.1);
+    border-radius: 20px;
+    color: #4606ac;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: 50px;
+    margin-top: 50px;
+  
+ }
+
+
+ .sub-contact-from h1{
+
+  font-size:45px ;
+  font-weight: 400;
+  margin-top: 20px;
+letter-spacing: 2px;
+margin-bottom: 20px;
+font-family: 'Poppins', sans-serif;
+  text-transform: capitalize;
+
+ }
+
+ .sub-contact-from p{
+
+
+  font-size: 18px;
+  color: #657E91;
+  letter-spacing:1px;
+  font-weight: 400;
+  line-height:30px;
+  margin-bottom: 35px;
+ }
+
+ .form-label{
+  font-size:15px;
+  color: #000;
+  letter-spacing:1px;
+  font-weight: 700;
+ }
+
+ .form-control{
+   padding: 15px;
+   color: black;
+   text-transform: capitalize;
+   font-weight: 700;
+ }
+
+#submit-btn{
+  background-color: #133d73;
+  padding: 20px 50px;
+  border-radius: 30px;
+  margin-top: 30px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+font-weight: 700;
+font-size: 13px;
+
+font-family: 'Poppins', sans-serif;
+}
+      
+        

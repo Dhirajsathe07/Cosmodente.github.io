@@ -1,0 +1,824 @@
+@media only screen and (min-width:480px) and (max-width:639px){
+
+
+
+    #slider-image_3{
+        background:linear-gradient(rgba(000,000,000,.8),rgba(000, 000, 000, .8)),url(../img/c2.jpg);
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+        
+        }
+    .heading
+    {
+    font-size:1.3em;
+    font-family: sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    color: white;
+ position: relative;
+
+ left:10%;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    word-spacing: 1px;
+    }
+
+    .sub-heading{
+        color: white;
+        width: 98%;
+        margin-left: 45px;
+        font-size:3.3em;
+        text-transform: capitalize;
+        line-height: 60px;
+        font-weight: 900;
+        text-align: left;
+        }
+
+.carousel-caption{
+border: 1px solid none;
+width: 100%;
+left: 0;
+        }
+
+
+
+        .button-slide{  
+            margin-top:40px;
+            }
+        
+            .button-slide a{
+                margin-left: 45px;
+                }
+        
+                #slider-image_1 , #slider-image_2, #slider-image_3{
+                    height: 85vh;
+                }
+
+                .carousel-caption{
+                    border:1px solid none;
+                    top: 18%;
+                    bottom: auto;
+                    text-align: left;
+                    }
+
+
+
+
+   /*===================================
+        
+         Dental Abouts 
+        
+        ===================================
+        
+        */
+
+
+        .hero-dental-about{
+            margin-bottom: 50px;
+            margin-top: 50px;
+        }
+
+
+
+        .dental-box{
+            padding: 0px 10px;
+            
+        }
+
+        .Dental-about-content{
+            margin-left: 20px;
+            margin-bottom: 70px;
+           }
+
+
+             #nick img{
+           margin-bottom: 20px; 
+            width:70px;
+        }
+
+
+        .Dental-about-content h1{
+            font-family: 'Poppins', sans-serif;
+           padding-top: 20px;
+            font-weight: 800;
+            font-size: 2.2em;
+            text-transform: cap
+            italize;
+            line-height: 48px;
+            letter-spacing: 2px;
+        }
+
+
+        .dental-img{
+     
+            background-image: url("../img/dental.jpg");
+            height: 400px;
+            width: 100%;
+            background-repeat: no-repeat;
+            margin-bottom: 90px;
+        }
+
+          .dental-img img{
+         position: relative;
+         top: 200px;
+         left:70px;
+         border: 10px solid white;
+
+        }
+
+
+               /* ====== 4 Item show ====== */
+
+    /* 
+               .our-section-item{
+                margin-top: 170px;
+                
+               }
+
+               
+            .service-afters {
+                background-color: #0CB8B6;
+                width: 100px;
+                height: 100px;
+                border-radius: 50%;
+                position: absolute;
+                top: 165px;
+                bottom: 0;
+                left: 10%; }
+
+
+         .service-afters img {
+    position: relative;
+      left: 16px;
+          top: 15px; }
+        .service-text {
+       margin-top: 60px;
+      padding: 10px 30px;
+              padding-bottom: 20px; }           
+
+        
+
+
+
+        */
+
+        .dental-services{
+            background-color: #f6f6fa;
+           padding:30px;
+          height: 450px;
+            position: relative;
+           
+        }
+
+
+        .dental-service-tittle{
+            margin-top: 40px;
+        }
+        
+.dental-service-tittle h1{
+    font-family: 'Poppins', sans-serif;
+   padding-top: 20px;
+    font-weight: 800;
+    font-size:2em;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+        .service-folder {
+            border: 1px solid none;
+            background-color: #fff;
+            position:relative;
+            top: -180px;
+            margin-top: 20px;
+            box-shadow: var(--shadow);
+            }
+
+
+            
+            /* ===== Service section ===== */
+            
+         
+            .service-section{
+                background-color: #eef7ff;
+                margin-top: 0px;
+                
+                margin-bottom: 70px; }
+
+
+          .service-box {
+              background-image: url("../img/dental.jpg");
+                    padding: 0px;
+                    background-size: cover;
+                    height: 300px;
+                  
+                    position: relative; }
+
+                    .service-contents {
+                        padding: 0px 0px 0px;
+                        position: relative;
+                        border: 1px solid none;
+                        left: 0%;
+                        top: 30px;
+                        margin-bottom: 50px;
+                        /* margin-left: 50px; */ }
+
+
+  /* ===== Service section ===== */
+
+
+/*  Author section === */
+
+.author-section{
+    background-color: #133D73;
+    width: 100%;
+    margin-top: 150px;
+    margin-left:0px;
+    }
+
+    .author-img img{
+        width:100%;
+        margin-left: 0px;
+        margin-top: -100px;
+        border: 5px solid white;
+      }
+
+      
+.author-content{
+    padding: 0px 0px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    } 
+
+
+    .items span{
+position: relative;
+left: 0;
+
+}
+
+
+.contact-form{
+margin-top: 50px;
+}
+
+
+
+.contents{
+  background-color: white;
+  box-shadow: var(--shadow);
+ width: 100%;
+ margin-bottom: 50px;
+ 
+
+}
+
+
+.contact-img{
+    background-image: url("../image/home-5.jpg");
+    background-size: cover;
+    margin-left: 0px;
+    height: 400px;
+    }
+      
+    .free-tag{
+        padding: 10px 50px;
+        background-color: rgba(19, 61, 115, 0.3);
+        border-radius: 20px;
+        color: #4606ac;
+        font-weight: 600;
+        letter-spacing: 1px;
+        font-size: 18px;
+        line-height: 30px;
+        
+        }
+
+        
+.contact-form-content{
+    padding: 10px;
+   margin-bottom: 50px;
+   margin-top: 50px;
+    }
+    
+    .contact-form-content h1{
+        font-weight: 600;
+        margin-top: 30px;
+        font-size: 2.7em;
+        
+        }
+
+
+       
+        
+
+          .contact-img{
+            background-image: url("../image/home-5.jpg");
+            background-size: cover;
+        
+            }
+        
+            .contact-form-content1{
+                padding: 20px;
+                margin-top: 10px;
+                margin-bottom: 30px;
+                }
+
+
+                .contact-form-content1 h1{
+                    font-weight: 500;
+                    margin-top: 30px;
+                    font-size:2.9em;
+                    letter-spacing: 2px;
+                    }
+
+
+    
+
+.support-box1{
+    border: 1.5px solid #e7e7e7;
+    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 10px;
+  }
+
+
+  /* ===== asub contact === */
+
+
+  .contact-us-form{
+    padding: 10px;
+    background-color: #f8f8f8;
+     }
+
+
+     .contact-img41{
+        background-image: url("../image/contacts-1.jpg");
+        background-size: cover;
+        margin-left: 0px;
+        height: 400px;
+        
+     }
+
+
+     .sub-contact-from{
+        padding: 10px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+         }
+
+
+
+
+.footers{
+background-color:#082032;
+padding: 0px;
+display:grid;
+padding-top: 20px;
+
+}
+
+
+.video-section{
+    padding: 0px;
+  
+  }
+
+.pop-video video{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:100%;
+    border-radius: 5px;
+    border: 3px solid #fff;
+    object-fit: cover;
+  }
+
+  .pop-video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background:rgba(0, 0, 0, .8);
+    height:100%;
+    width: 100%;
+    }
+  
+
+     
+         
+        
+
+}
+
+
+@media only screen and (max-width:479px){
+
+    #slider-image_3{
+        background:linear-gradient(rgba(000,000,000,.8),rgba(000, 000, 000, .8)),url(../image/back1.jpg);
+        background-size: cover;
+     
+        width: 100%;
+        height: 100vh;
+        
+        
+        }
+
+
+    .footers{
+        background-color:#082032;
+        padding: 0px;
+        display:grid;
+        padding-top: 20px;
+        
+        }
+        
+        
+    #home{
+    padding: 10px;
+    }
+    .social-icons{
+display: none;
+    }
+
+   
+
+    .heading
+    {
+    font-size:0.9em;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+ position: relative;
+ left:7%;
+ border: 1px solid none;
+ width: 90%;
+    font-weight: 700;
+    letter-spacing:2px;
+    word-spacing: 1px;
+    }
+
+
+
+    .sub-heading{
+        color: white;
+        width: 98%;
+        margin-left:25px;
+        font-size:2.7em;
+        width: 98%;
+        border: 1px solid none;
+        text-transform: capitalize;
+        line-height: 50px;
+        font-weight: 900;
+        text-align: left;
+        }
+
+        .carousel-caption{
+            border: 1px solid none;
+            width: 95%;
+            left: 0;
+                    }
+            
+            
+                    #slider-image_1 , #slider-image_2, #slider-image_3{
+                        height: 70vh;
+                       
+                    }
+
+                    
+    #slider-image_1{
+        background:linear-gradient(rgba(000,000,000,.6),rgba(000, 000, 000, .6)),url(../img/bg_banner1.jpg);
+        background-size: cover;
+        background-position: 100%;
+        width: 100%;
+       
+        }
+
+
+                    .button-slide{  
+                        margin-top:40px;
+                        }
+                    
+                        .button-slide a{
+                            margin-left: 20px;
+                            }
+
+
+
+   /*===================================
+        
+         Dental Abouts 
+        
+        ===================================
+        
+        */
+        .hero-dental-about{
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+
+
+
+        .dental-box{
+            padding: 0px 10px;
+            
+        }
+
+        .Dental-about-content{
+            margin-left: 20px;
+            margin-bottom: 50px;
+           }
+
+
+           .dental-img{
+     
+            background-image: url("../img/dental.jpg");
+            height: 400px;
+            width: 100%;
+            background-repeat: no-repeat;
+        }
+
+          .dental-img img{
+         position: relative;
+         top: 200px;
+         width: 20%;
+         left:-10px;
+         border: 10px solid white;
+        }
+
+        .Dental-about-content h1{
+            font-family: 'Poppins', sans-serif;
+           padding-top: 20px;
+            font-weight: 800;
+            font-size:1.9em;
+            text-transform: cap
+            italize;
+            line-height: 40px;
+            letter-spacing: 2px;
+        }
+
+
+         /* ====== 4 Item show ====== */
+
+         .dental-services{
+            background-color: #f6f6fa;
+           padding:25px;
+          height: 450px;
+            position: relative;
+           
+        }
+        .dental-service-tittle{
+            padding-top: 35px;
+        }
+        .dental-service-tittle h1{
+            font-family: 'Poppins', sans-serif;
+           padding-top: 20px;
+            font-weight: 800;
+            font-size:2em;
+            text-transform: capitalize;
+            letter-spacing: 2px;
+        }
+        
+        .service-folder {
+            border: 1px solid none;
+            background-color: #fff;
+            position:relative;
+            top: -180px;
+            margin-top: 20px;
+            box-shadow: var(--shadow);
+            }
+            
+         
+
+
+            .service-contents {
+                padding: 0px 0px 0px;
+                position: relative;
+                border: 1px solid none;
+                left: 0%;
+                top: 50px;
+                /* margin-left: 50px; */ }
+
+                .service-box {
+                    background-image: url("../img/dental.jpg");
+                    padding: 50px;
+                    background-size: cover;
+                    margin-top: 10px;
+                    height: 300px;
+                    overflow: hidden;
+                    position: relative; }
+
+
+                    .service-list li {
+                        padding: 10px;
+                         letter-spacing: 1px;
+                        font-size: 18px;
+                        font-family: 'Open Sans', sans-serif;
+                        font-weight:600;
+                       color: rgb(0, 0, 0);
+                          opacity: 0.}  
+
+
+
+ /*  Author section === */
+
+.author-section{
+    background-color: #133D73;
+    width:100%;
+    margin-top: 150px;
+    margin-left:0px;
+    }
+
+
+    .author-img img{
+        width:100%;
+        height:300px;
+        margin-left: 0px;
+        margin-top: -100px;
+        border: 5px solid white;
+      }
+
+      
+.author-content{
+    padding: 0px 0px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    }    
+
+
+    .items span{
+        padding: 7px 25px;
+        font-size: 18px;
+        font-weight: 500;
+        position: relative;
+        left: 0%;
+        cursor: pointer;
+        color: #007bff;
+        border-radius: 50px;
+        border: 2px solid #007bff;
+        transition: all 0.3s ease;
+      }
+
+
+        /*===================================
+        
+        supports contanct
+        
+        ===================================*/
+      
+        .hero-supports{
+padding: 0;
+margin-top: 40px;
+width: 100%;
+        }
+       
+      
+        .support-box1{
+            border: 1.5px solid #e7e7e7;
+            padding:30px;
+            padding-bottom: 30px;
+            padding-top: 50px;
+            border-radius: 10px;
+            margin-top: 20px;
+          
+          }
+
+
+          
+        /*===================================
+        
+        Contact form resposive add
+        
+        ===================================*/
+                      
+           
+.contents1{
+    background-color: white;
+    box-shadow: var(--shadow);
+   width: 95%;
+   margin-bottom: 50px;
+   margin-top: 70px;
+
+  }    
+
+  .contact-img{
+    background-image: url("../image/home-5.jpg");
+    background-size: cover;
+    margin-left: 0px;
+    height: 300px;
+    
+    }
+
+    
+    .contact-form-content1{
+        padding: 10px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+        }
+
+        .contact-form-content1 h1{
+            font-weight: 500;
+            margin-top: 30px;
+            font-family: 'Open Sans', sans-serif;
+            font-size:2em;
+            letter-spacing: 2px;
+            }
+
+
+  
+/* form filling  */
+      
+
+.contact-us-form{
+    padding: 20px;
+    background-color: #f8f8f8;
+     }
+    
+     .contact-img41{
+        background-image: url("../image/contacts-1.jpg");
+        height: 330px;
+        border-radius: 10px;
+        background-size: cover;
+        margin-left: 0px;
+        
+     }
+
+     
+ .sub-contact-from{
+    padding: 10px;
+    margin-top: 35px;
+     }
+
+
+     .contents{
+        background-color: white;
+        box-shadow: var(--shadow);
+       width:100%;
+       margin-bottom: 50px;
+       margin-top: 50px;
+       
+      
+      }
+
+      .contact-form-content{
+        padding: 10px;
+        margin-bottom: 50px;
+        margin-top: 30px;
+        }
+        
+
+      .contact-img{
+        background-image: url("../image/home-5.jpg");
+        background-size: cover;
+        margin-left:0px;
+        
+        }
+
+        .free-tag{
+            padding: 10px 50px;
+            background-color: rgba(19, 61, 115, 0.3);
+            border-radius: 20px;
+            margin-top: 30px;
+            color: #4606ac;
+            font-weight: 600;
+            letter-spacing: 1px;
+            font-size: 18px;
+            line-height: 30px;
+            
+            }
+
+
+            .video-section{
+                padding: 0px;
+              
+              }
+            
+            .pop-video video{
+                position: absolute;
+                top: 55%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                width:100%;
+                border-radius: 5px;
+                border: 3px solid #fff;
+                object-fit: cover;
+                z-index: 9999999;
+              }
+
+              .pop-video span{
+                position:absolute ;
+                top:90px;
+                right:180px;
+                font-size: 50px;
+                color: #fff;
+                font-weight: bolder;
+                z-index: 99999999;
+                cursor: pointer;
+                }
+
+}
+
